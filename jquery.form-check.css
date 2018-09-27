@@ -1,0 +1,5 @@
+.validate-form{display: block;}
+.errormsg{color: #f00;}
+.error{border: 1px solid #f00;}
+.checked{border: 1px solid #0f0;}
+.checking{border: 1px solid #ff0;}
